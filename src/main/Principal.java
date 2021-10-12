@@ -28,7 +28,6 @@ public class Principal {
 		for (int i = 0; i < 100; i++) {
 			System.out.println();
 		}
-
 	}
 
 	public static void menuUsuario() {
@@ -38,6 +37,11 @@ public class Principal {
 		System.out.println("1 - Candidato");
 		System.out.println("2 - Recrutador");
 
+	}
+
+	public static void menuCandidato() {
+
+		System.out.println("");
 	}
 
 }
