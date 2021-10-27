@@ -4,7 +4,7 @@
 
 📋 O sistema visa auxiliar as pessoas na hora de encontrar uma vaga de emprego que seja compatível com as suas habilidades e competências, e também auxiliar os recrutadores na hora de encontrar mais fácilmente os candidatos para sua vaga.
 
-🏢Ele é compost, principalmente, de um módulo onde os candidatos podem cadastrar seu currículo e os recrutadores podem cadastrar as suas vagas, possibilitando que os candidatos possam pesquisar pelas vagas que estão mais próximas do seu perfil. Desta forma, os recrutadores podem ter também um contato mais próximo com os seus candidatos, levando a uma contratação mais assertiva.
+🏢Ele é composto, principalmente, de um módulo onde os candidatos podem cadastrar seu currículo e os recrutadores podem cadastrar as suas vagas, possibilitando que os candidatos possam pesquisar pelas vagas que estão mais próximas do seu perfil. Desta forma, os recrutadores podem ter também um contato mais próximo com os seus candidatos, levando a uma contratação mais assertiva.
 
 Integrantes:
 
