@@ -6,8 +6,8 @@
 
 🏢Ele é compost, principalmente, de um módulo onde os candidatos podem cadastrar seu currículo e os recrutadores podem cadastrar as suas vagas, possibilitando que os candidatos possam pesquisar pelas vagas que estão mais próximas do seu perfil. Desta forma, os recrutadores podem ter também um contato mais próximo com os seus candidatos, levando a uma contratação mais assertiva.
 
+Integrantes:
 
-    Integrantes:
   - Vitor Quaglioto de Souza
   - Andre Senes Dreger
   - Mateus Nunc Nfoonro Nascimento
