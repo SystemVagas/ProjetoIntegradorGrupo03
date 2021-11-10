@@ -12,9 +12,7 @@ Integrantes:
   - Andre Senes Dreger
   - Mateus Nunc Nfoonro Nascimento
   - Fabio Santoro Nandes
-  - Andre Grahl Ramos Bertoti
-  - Hueslei Duczinski Scheffer
-  
+
     
 ### Configuração para desenvolvimento
 
